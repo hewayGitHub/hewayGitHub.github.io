@@ -5,14 +5,14 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-## Who am I?
+### Who am I?
 
 name : 何威(Heway)  
 email : <heway.cn@gmail.com>  
 github : <https://github.com/hewayGitHub> 
 weibo : <http://weibo.com/heway1990/> 
 
-## Hope U feel interested in
+### Hope U feel interested in
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -20,7 +20,8 @@ weibo : <http://weibo.com/heway1990/>
   {% endfor %}
 </ul>
 
-## Thanks
+
+### Thanks
 
 This theme is from [jekyll-bootstrap](http://jekyllbootstrap.com/)!
 
