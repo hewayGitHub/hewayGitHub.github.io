@@ -22,9 +22,9 @@ markdown和邮件的语法基本类似，通过用符合邮件风格的符号来
 - 句首加`-, *, +`表示有序列表，用数字后带点号（`1. `）表示有序列表，数字可以全用1，不需要有大小顺序，推荐全用1. 
   如果要在列表里添加列表，缩进即可。
   ```
-    1. item1  
-    2. item2  
-    3. item3  
+  1. item1  
+  2. item2  
+  3. item3  
   ```
 - 引用的方法和邮件类似，用`>`，只要注意`>`前后添加空行。
 
@@ -42,17 +42,17 @@ markdown和邮件的语法基本类似，通过用符合邮件风格的符号来
 - 强调，一个`*`是*one*，两个是**two**
 - 链接的语法有两种，如下所示。当一个链接需要被多次，或者为了便于管理和美观，可以用第二种方式。
   ```
-    [an example](http://example.com/ "Optional Title Here")
+  [an example](http://example.com/ "Optional Title Here")
 
-    [an example]\[id]  
-    \[id]: http://example.com/  "Optional Title Here"
+  [an example][id]  
+  [id]: http://example.com/  "Optional Title Here"
   ```
 - 图片其实就是链接，形式如下。Alt属性是图片无法加载时显示的信息，title是鼠标在图片上时显示的信息。
   ```
-    !\[Alt text](/path/to/img.jpg "Optional title") 
-    或  
-    ![Alt text]\[id]
-    \[id]: url/to/image  "Optional title attribute"
+  ![Alt text](/path/to/img.jpg "Optional title") 
+  或  
+  ![Alt text][id]
+  [id]: url/to/image  "Optional title attribute"
   ```
 
 最后，上面说的这些符号就像定义的关键词，如果想转义，前面加`\`即可。当然上面大不多关键词都是在段首或句首才有效，所以需要转义的情况很少。
