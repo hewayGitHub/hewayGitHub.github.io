@@ -7,10 +7,12 @@ tagline: Supporting tagline
 
 ### Who am I?
 
-name : 何威(Heway)  
-email : <heway.cn@gmail.com>  
-github : <https://github.com/hewayGitHub> 
-weibo : <http://weibo.com/heway1990/> 
+Name : 何威(Heway)  
+Email : <heway.cn@gmail.com>  
+Github : <https://github.com/hewayGitHub>  
+Weibo : <http://weibo.com/heway1990/> 
+
+A happy data worker!
 
 ### Hope U feel interested in
 
