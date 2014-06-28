@@ -6,17 +6,20 @@ tags : [tutorial]
 ---
 #第一个文章 当然要用markdown#
 
+
+###基本概念
+
 markdown和邮件的语法基本类似，通过用符合邮件风格的符号来定义格式，我们可以用自然、易读的方式写web文档。
 
-markdown主要元素包括标题、段落、列表、引用、代码块、水平分割线、强调、链接、图片等，属于两个基本分类，block elements和span elements。
+markdown主要元素包括标题、段落、列表、引用、代码块、水平分割线、强调、链接、图片等。  
+它们属于两个基本分类，block elements和span elements。
+- block elements包括标题、段落、列表、引用、代码块、水平分割线以及直接嵌入的html代码块，它们之间通常需要用空行分隔。  
+- span elements包括强调、链接、图片、内嵌代码等。
 
-block elements包括标题、段落、列表、引用、代码块、水平分割线以及直接嵌入的html代码块，它们之间通常需要用空行分隔。  
-span elements包括强调、链接、图片、内嵌代码等。
+参考：[某个官方文档](http://daringfireball.net/projects/markdown/syntax#blockquote)
 
+###具体细节
 
-[某个官方文档](http://daringfireball.net/projects/markdown/syntax#blockquote)
-
-##具体如下：
 - `#`可以用来表明段落层次，放在句首即可，最多6个
 - 连续的文本就是一个段落，段落之间用空行分隔。如果希望在一个段落内部强制换行，  
 在一句末尾留两个以上的空格即可  
