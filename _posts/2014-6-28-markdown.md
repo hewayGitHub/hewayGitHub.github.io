@@ -1,3 +1,9 @@
+---
+layout: post
+category : lessons
+tagline: "Supporting tagline"
+tags : [intro, beginner, jekyll, tutorial]
+---
 #第一个文章 当然要用markdown#
 
 markdown的语法其实和我们写邮件的时候的语法基本类似，基本就是标题、段落、列表、引用、代码块、水平分割线、强调、链接、图片等。
