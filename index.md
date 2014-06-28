@@ -7,10 +7,12 @@ tagline: Supporting tagline
 
 ## Who am I?
 
-name : 何威(Heway)
-email : <heway.cn@gmail.com>
-github : <https://github.com/hewayGitHub>
-weibo : <http://weibo.com/heway1990/>
+name : 何威(Heway)  
+email : <heway.cn@gmail.com>  
+github : <https://github.com/hewayGitHub> 
+weibo : <http://weibo.com/heway1990/> 
+
+## Hope U feel interested in
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -18,9 +20,9 @@ weibo : <http://weibo.com/heway1990/>
   {% endfor %}
 </ul>
 
-## To-Do
+## Thanks
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+This theme is from [jekyll-bootstrap](http://jekyllbootstrap.com/)!
+
 
 
