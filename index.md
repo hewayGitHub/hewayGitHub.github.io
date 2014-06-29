@@ -21,15 +21,6 @@ A happy data worker!
   {% include JB/categories_list %}
 </ul>
 
-
-{% for category in site.categories %} 
-  <h2 id="{{ category[0] }}-ref">{{ category[0] | join: "/" }}</h2>
-  <ul>
-    {% assign pages_list = category[1] %}  
-    {% include JB/pages_list %}
-  </ul>
-{% endfor %}
-
 ### Thanks
 
 This theme is from [jekyll-bootstrap](http://jekyllbootstrap.com/)!
