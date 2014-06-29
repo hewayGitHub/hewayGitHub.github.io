@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Heway's Home
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
