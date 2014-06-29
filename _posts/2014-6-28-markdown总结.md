@@ -2,7 +2,7 @@
 layout: post
 category : tutorial
 tagline: "Supporting tagline"
-tags : [tutorial]
+tags : []
 ---
 #第一个文章 当然要用markdown#
 
