@@ -21,9 +21,3 @@ A happy data worker!
   {% include JB/categories_list %}
 </ul>
 
-### Thanks
-
-This theme is from [jekyll-bootstrap](http://jekyllbootstrap.com/)!
-
-
-
