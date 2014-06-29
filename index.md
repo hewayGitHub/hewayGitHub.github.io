@@ -8,9 +8,10 @@ tagline: Supporting tagline
 ### Who am I?
 
 Name : 何威(Heway)  
-Email : {{ site.author.email }}  
-Github : {{ site.author.github }}  
-Weibo : {{ site.author.weibo }} 
+Email : <{{ site.author.email }}>  
+Github : <{{ site.author.github }}>  
+Weibo : <{{ site.author.weibo }}>
+Blog : <{{ site.author.blog }}>
 
 A happy data worker!
 
