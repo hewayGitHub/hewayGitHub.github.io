@@ -8,9 +8,9 @@ tagline: Supporting tagline
 ### Who am I?
 
 Name : 何威(Heway)  
-Email : <heway.cn@gmail.com>  
-Github : <https://github.com/hewayGitHub>  
-Weibo : <http://weibo.com/heway1990/> 
+Email : {{ site.email }}  
+Github : {{ site.github }}  
+Weibo : {{ site.weibo }} 
 
 A happy data worker!
 
