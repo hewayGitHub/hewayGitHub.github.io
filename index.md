@@ -10,7 +10,7 @@ tagline: Supporting tagline
 Name : 何威(Heway)  
 Email : <{{ site.author.email }}>  
 Github : <{{ site.author.github }}>  
-Weibo : <{{ site.author.weibo }}>
+Weibo : <{{ site.author.weibo }}>  
 Blog : <{{ site.author.blog }}>
 
 A happy data worker!
